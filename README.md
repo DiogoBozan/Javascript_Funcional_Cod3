@@ -30,7 +30,6 @@ Estas são as ferramentas que todos os novos desenvolvedores da equipa #Intetum 
 #### 2. [Visual Studio - Enterprise 2019](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)
     - Depois de instalado deverá selecionar pelo menos duas opções de configuração:
       * ASP.NET and Web Developement; 
-      :heavy_check_mark:
       * Universal Windows Plataform developement;
 
 #### 3. [SQL Server 2019 - Developer](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
@@ -68,5 +67,5 @@ elasticsearch-service install
 ```
 
 
-
+:heavy_check_mark:
 
